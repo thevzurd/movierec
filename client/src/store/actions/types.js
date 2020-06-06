@@ -1,0 +1,13 @@
+// data repo
+export const FETCH_VIDEO = "FETCH_VIDEO";
+export const FETCH_VIDEOS = "FETCH_VIDEOS";
+export const ADD_VIDEO = "ADD_VIDEO";
+export const REMOVE_VIDEO = "REMOVE_VIDEO";
+export const RESET_VIDEO = 'RESET_VIDEO';
+
+export const ADD_FAVVIDEO = 'ADD_FAVVIDEO';
+export const REMOVE_FAVVIDEO = 'REMOVE_FAVVIDEO';
+export const RESET_FAVVIDEO = 'RESET_FAVVIDEO';
+
+export const ADD_RECOMMENDATION = 'ADD_RECOMMENDATION';
+export const RESET_RECOMMENDATION = 'RESET_RECOMMENDATION';
